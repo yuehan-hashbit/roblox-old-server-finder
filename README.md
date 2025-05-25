@@ -28,10 +28,6 @@ Get the latest version from the [Releases](https://github.com/yuehan-hashbit/rob
 4. Click **Find Servers** to view results.
 5. Click a result to open it in your browser and join via Roblox.
 
-## 📷 Screenshot
-
-![screenshot-placeholder](https://via.placeholder.com/800x400.png?text=Old+Server+Finder+UI+Mockup)
-
 ## 🛠 Requirements
 
 - Windows 10 or newer
